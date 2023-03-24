@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey, call me [Kev](https://kvo.vercel.app/) 👋🏼
 
-<!--
-**Yezo/Yezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack software engineer but also a digital designer at heart. My passion thrives in frontend web development where I carefully build mobile-first responsive designs. Currently focused on honing my craft in order to forge better and unforgettable user experiences. 
+I'm looking to join a team of creative designers and developers. If you think I am a good fit, let's partner up.
 
-Here are some ideas to get you started:
+## The foundations
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,postman,vite,)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Can't live without
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,)](https://skillicons.dev)
+
+## Familiar with
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,sass,jest,docker,materialui,bootstrap,vercel,)](https://skillicons.dev)
+
+## Currently learning
+[![My Skills](https://skillicons.dev/icons?i=mysql,figma,graphql,)](https://skillicons.dev)
+
