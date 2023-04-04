@@ -12,16 +12,16 @@ You can reach me at the following places:
 - 🤝 **LinkedIn**: https://linkedin.com/in/kvocodes/
 
 ## The foundations
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,postman,vite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,postman,vite&perline=5)](https://skillicons.dev)
 
 ## Can't live without
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind&perline=5)](https://skillicons.dev)
 
 ## Familiar with
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,sass,jest,docker,materialui,bootstrap,vercel,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,nodejs,express,mongo,sass,jest,docker,materialui,bootstrap,vercel&perline=5)](https://skillicons.dev)
 
 ## Currently learning
-[![My Skills](https://skillicons.dev/icons?i=mysql,figma,graphql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,figma&perline=5)](https://skillicons.dev)
 
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Yezo&show_icons=true&theme=nord&hide_border=true&text_bold=false)      
