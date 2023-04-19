@@ -1,16 +1,31 @@
-## Hey, call me [Kev](https://kvo.vercel.app/) 👋🏼
+## ✨ Hey, call me [Kev](https://kvo.vercel.app/) ✨
 
-I'm a fullstack software engineer and a digital designer at heart.    
-My passion thrives in frontend web development where I carefully build mobile-first responsive designs.    
-Currently focused on honing my craft in order to forge better and unforgettable user experiences.    
-I'm looking to join a team of creative designers and developers.    
-If you think I am a good fit, let's partner up.  
+✒ Front-end digital designer specializing in modern and responsive web development (React, Redux, TypeScript)<br>
+✒ Capable of building REST APIs and other back-end responsibilities (Node.js, Express, MongoDB, SQL)<br>
+✒ Keen interest in learning more about web design fundamentals (UI/UX, Typography, Brand Identities)<br>
+✒ I'm open to opportunities and am looking to join a group of creative developers <br>
 
-You can reach me at the following places:
-- 📫 **Email**: kvo.codes@gmail.com  
-- 😎 **Portfolio**: https://kvo.vercel.app/
-- 🤝 **LinkedIn**: https://linkedin.com/in/kvocodes/
+## Tech Stack
+🔧 <b>Frontend:</b>  React, Redux Toolkit, RTK Query, Javascript, TypeScript, HTML5, React Router <br>
+🔧 <b>Backend:</b>  Node.js, Express, MongoDB, Mongoose, SQL, MySQL, Rest API <br>
+🔧 <b>Styling:</b>  CSS3, SASS, Tailwind, Bootstrap, MaterialUI, RadixUI, HeadlessUI, Framer Motion <br>
+🔧 <b>Dev Tools:</b>  Figma, Jest, Git, Vite, CRA, Postman, MongoDB Atlas <br>
 
+## Contact
+📫 **Email**: kvo.codes@gmail.com  <br>
+😎 **Portfolio**: https://kvo.vercel.app/ <br>
+🤝 **LinkedIn**: https://linkedin.com/in/kvocodes/ <br>
+🛠 **GitHub**: https://github.com/Yezo 
+
+
+## Stats
+![My stats](https://github-readme-stats.vercel.app/api?username=Yezo&show_icons=true&theme=nord&hide_border=true&text_bold=false)      
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yezo&hide_progress=false&layout=compact&theme=nord&hide_border=true)](https://github.com/Yezo/github-readme-stats)
+
+
+
+<!---
 ## The foundations
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,postman,vite&perline=5)](https://skillicons.dev)
 
@@ -22,8 +37,4 @@ You can reach me at the following places:
 
 ## Currently learning
 [![My Skills](https://skillicons.dev/icons?i=mysql,figma&perline=5)](https://skillicons.dev)
-
-## Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=Yezo&show_icons=true&theme=nord&hide_border=true&text_bold=false)      
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yezo&hide_progress=false&layout=compact&theme=nord&hide_border=true)](https://github.com/Yezo/github-readme-stats)
+-->
