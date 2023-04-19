@@ -18,14 +18,12 @@
 🛠 **GitHub**: https://github.com/Yezo 
 
 
+<!---
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Yezo&show_icons=true&theme=nord&hide_border=true&text_bold=false)      
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yezo&hide_progress=false&layout=compact&theme=nord&hide_border=true)](https://github.com/Yezo/github-readme-stats)
 
-
-
-<!---
 ## The foundations
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,postman,vite&perline=5)](https://skillicons.dev)
 
