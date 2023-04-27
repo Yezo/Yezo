@@ -6,10 +6,10 @@
 ✒ I'm open to opportunities and am looking to join a group of creative developers <br>
 
 ## Tech Stack
-🔧 <b>Frontend:</b>  React, Redux Toolkit, RTK Query, Javascript, TypeScript, HTML5, React Router <br>
+🔧 <b>Frontend:</b>  React, Redux Toolkit, RTK Query, Next.js, Javascript, TypeScript, HTML5, React Router <br>
 🔧 <b>Backend:</b>  Node.js, Express, MongoDB, Mongoose, SQL, MySQL, Rest API <br>
 🔧 <b>Styling:</b>  CSS3, SASS, Tailwind, Bootstrap, MaterialUI, RadixUI, HeadlessUI, Framer Motion <br>
-🔧 <b>Dev Tools:</b>  Figma, Jest, Git, Vite, CRA, Postman, MongoDB Atlas <br>
+🔧 <b>Dev Tools:</b>  Figma, React-Testing-Library, Jest, Git, Vite, CRA, Postman, MongoDB Atlas <br>
 
 ## Contact
 📫 **Email**: kvo.codes@gmail.com  <br>
