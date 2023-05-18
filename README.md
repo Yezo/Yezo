@@ -1,9 +1,10 @@
 ## ✨ Hey, call me [Kev](https://kvo.vercel.app/) ✨
 
-✒ Front-end digital designer specializing in modern and responsive web development (React, Redux, TypeScript)<br>
-✒ Capable of building REST APIs and other back-end responsibilities (Node.js, Express, MongoDB, SQL)<br>
-✒ Keen interest in learning more about web design fundamentals (UI/UX, Typography, Brand Identities)<br>
-✒ I'm open to opportunities and am looking to join a group of creative developers <br>
+✒ Design-focused Software Engineer with extensive experience in the Javascript ecosystem (React, TS, Next.js, Redux, and Node)<br>
+✒ Specialized in developing responsive web applications, prioritizing a mobile-first approach for optimal user experience<br>
+✒ Capable of building REST APIs and handling back-end responsibilities (Node.js, Express, MongoDB, SQL)<br>
+✒ Enthusiastic about expanding knowledge in web design fundamentals (UI/UX, Typography, Brand Identities)<br>
+✒ Actively seeking opportunities to join a team of creative designers and developers<br>
 
 ## Tech Stack
 🔧 <b>Frontend:</b>  React, Redux Toolkit, RTK Query, Next.js, Javascript, TypeScript, HTML5, React Router <br>
