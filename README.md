@@ -1,16 +1,14 @@
 ## ✨ Hey, call me [Kev](https://kvo.vercel.app/) ✨
+✒ Design-focused Fullstack Developer (React, Next.js, TypeScript, Redux, Node.js, MongoDB)<br>
+✒ Interested in improving the web experience (UI/UX, Brand Identity, Typography, the little details)<br>
+✒ Focused on crafting responsive web apps - prioritizing a mobile-first approach<br>
+✒ Actively seeking new opportunities to join a talented team of developers<br>
 
-✒ Design-focused Software Engineer with extensive experience in the Javascript ecosystem (React, TS, Next.js, Redux, and Node)<br>
-✒ Specialized in developing responsive web applications, prioritizing a mobile-first approach for optimal user experience<br>
-✒ Capable of building REST APIs and handling back-end responsibilities (Node.js, Express, MongoDB, SQL)<br>
-✒ Enthusiastic about expanding knowledge in web design fundamentals (UI/UX, Typography, Brand Identities)<br>
-✒ Actively seeking opportunities to join a team of creative designers and developers<br>
-
-## Tech Stack
-🔧 <b>Frontend:</b>  React, Redux Toolkit, RTK Query, Next.js, Javascript, TypeScript, HTML5, React Router <br>
-🔧 <b>Backend:</b>  Node.js, Express, MongoDB, Mongoose, SQL, MySQL, Rest API <br>
-🔧 <b>Styling:</b>  CSS3, SASS, Tailwind, Bootstrap, MaterialUI, RadixUI, HeadlessUI, Framer Motion <br>
-🔧 <b>Dev Tools:</b>  Figma, React-Testing-Library, Jest, Git, Vite, CRA, Postman, MongoDB Atlas <br>
+## Toolbox
+🔧 <b>Frontend:</b>  React, Next.js, Redux Toolkit, JavaScript, TypeScript, HTML<br>
+🔧 <b>Backend:</b>  Node.js, Express, MongoDB, Mongoose, NextAuth<br>
+🔧 <b>Styling:</b>  CSS, TailwindCSS, Bootstrap, MaterialUI, RadixUI, Framer Motion<br>
+🔧 <b>Dev Tools:</b>  Figma, Jest, Git, Vite, React-Testing-Library<br>
 
 ## Contact
 📫 **Email**: kvo.codes@gmail.com  <br>
