@@ -12,7 +12,7 @@
 
 ## Contact
 📫 **Email**: kvo.codes@gmail.com  <br>
-😎 **Portfolio**: https://kvo.vercel.app/ <br>
+😎 **Portfolio**: https://kevinvo.me/ <br>
 🤝 **LinkedIn**: https://linkedin.com/in/kvocodes/ <br>
 🛠 **GitHub**: https://github.com/Yezo 
 
