@@ -1,14 +1,14 @@
 ## ✨ Hey, call me [Kev](https://kvo.vercel.app/) ✨
-✒ Design-focused Fullstack Developer (React, Next.js, TypeScript, Redux, Node.js, MongoDB)<br>
+✒ Design-focused Fullstack Developer (React, Next.js, TypeScript, Redux, Node.js, MongoDB, PostgreSQL)<br>
 ✒ Interested in improving the web experience (UI/UX, Brand Identity, Typography, the little details)<br>
 ✒ Focused on crafting responsive web apps - prioritizing a mobile-first approach<br>
 ✒ Actively seeking new opportunities to join a talented team of developers<br>
 
 ## Toolbox
 🔧 <b>Frontend:</b>  React, Next.js, Redux Toolkit, JavaScript, TypeScript, HTML<br>
-🔧 <b>Backend:</b>  Node.js, Express, MongoDB, Mongoose, NextAuth<br>
-🔧 <b>Styling:</b>  CSS, TailwindCSS, Bootstrap, MaterialUI, RadixUI, Framer Motion<br>
-🔧 <b>Dev Tools:</b>  Figma, Jest, Git, Vite, React-Testing-Library<br>
+🔧 <b>Backend:</b>  Node.js, Express, MongoDB, Mongoose, PostgreSQL, NextAuth<br>
+🔧 <b>Styling:</b>  CSS, TailwindCSS, Bootstrap, MaterialUI, RadixUI, Framer Motion, shad/cn<br>
+🔧 <b>Dev Tools:</b>  Jest, Git, Vite, React-Testing-Library, Vercel, <br>
 
 ## Contact
 📫 **Email**: kvo.codes@gmail.com  <br>
